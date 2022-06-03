@@ -1,0 +1,7 @@
+#
+#
+IO_LOC "i_clock"  35;
+IO_LOC "i_reset"  15;
+IO_LOC "o_led[0]" 16;
+IO_LOC "o_led[1]" 17;
+IO_LOC "o_led[2]" 18;
